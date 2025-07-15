@@ -95,7 +95,7 @@ export const educationInfo = [
  
   {
     schoolName: "Mouhamed Ali High School Elhamma Gabes",
-    subHeader: "Baccalaureate of Science in Computer Science",
+    subHeader: "High school degree in Computer Science",
     duration: " 2019 -  2020",
     desc: "",
     descBullets: [],
