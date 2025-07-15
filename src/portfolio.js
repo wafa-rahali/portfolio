@@ -8,7 +8,7 @@ export const greetings = {
   description:
     "A passionate FULLSTACK Developer, with a strong foundation in HTML, CSS, PHP, SQL,JAVA and JavaScript, constantly exploring new technologies to build responsive, performant,and accessible websites. ",
   resumeLink:
-    "https://drive.google.com/file/d/1jKUvkPlbZ76E-yRtjnzAXXrW8HHxnE8l/view?usp=sharing",
+    "https://drive.google.com/file/d/1rXVC1mz8lMz2w0-833Fl0iLWHuOeufPb/view?usp=drivesdk",
 };
 
 export const openSource = {
@@ -18,11 +18,10 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-  facebook: "https://www.facebook.com/saber.mekki",
-  instagram: "https://www.instagram.com/mekkisaber",
-  twitter: "https://twitter.com/saber-mekki",
-  github: "https://github.com/saber-mekki",
-  linkedin: "https://www.linkedin.com/in/mekki-saber/",
+  facebook: "https://www.facebook.com/wafa.rahali.9",
+  instagram: "https://www.instagram.com/rahaliwafa?igsh=a2NkcWJwbnQ3eXd1",
+  github: "https://github.com/wafa-rahali",
+  linkedin: "https://www.linkedin.com/in/wafa-rahali-460a1715b",
 };
 
 export const skillsSection = {
@@ -52,15 +51,6 @@ export const skillsSection = {
     },
    
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "logos:nodejs-icon",
-    },
-   
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "vscode-icons:file-type-npm",
-    },
-    {
       skillName: "sql-database",
       fontAwesomeClassname: "vscode-icons:file-type-sql",
     },
@@ -82,7 +72,7 @@ export const skillsSection = {
 export const SkillBars = [
   {
     Stack: "Frontend/Design", //Insert stack or technology you have experience in
-    progressPercentage: "90", //Insert relative proficiency in percentage
+    progressPercentage: "70", //Insert relative proficiency in percentage
   },
   {
     Stack: "Backend",
@@ -133,7 +123,7 @@ export const projects = [
     desc: "Technical environment: React.js, Reactstrap, GitHub Pages, TypeScript, JavaScript, Responsive Design.",
     link: {
       name: "Rahali Wafa Portfolio",
-      url: "https://wafa-rahali.github.io/portfolio/",
+      url: "https://github.com/wafa-rahali/portfolio/tree/master",
     },
   }
 ];
